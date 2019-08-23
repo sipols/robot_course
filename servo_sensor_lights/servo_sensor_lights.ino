@@ -1,4 +1,4 @@
-#include<Servo.h>
+/*#include<Servo.h>
 //ultra sound sensor
 int trigPin = 7;
 int echoPin = 9;
@@ -39,3 +39,4 @@ if(distance>50){
   }
 
 }
+*/

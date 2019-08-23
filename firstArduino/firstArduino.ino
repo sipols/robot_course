@@ -1,6 +1,6 @@
 int led = 13;
 int ledOne = 12;
-int ledTwo = 10;
+int ledTwo = 11;
 
 void setup() {
   // put your setup code here, to run once:
